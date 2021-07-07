@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Latihan Tab Layout</string>
+    <string name="title_chat">Chats</string>
+    <string name="title_status">Status</string>
+    <string name="title_call">Calls</string>
+</resources>
